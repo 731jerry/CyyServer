@@ -1,0 +1,421 @@
+2014/11/20 21:31:05   GetCPDataWeb 2014/11/20 21:31:05
+2014/11/20 21:30:27   GetCPDataWeb 2014/11/20 21:30:27
+2014/11/20 21:30:27   updateCPDataTimer_Tick 2014/11/20 21:30:27
+2014/11/20 21:30:21   GetCPDataWeb 上海 2014/11/20 21:30:21
+2014/11/20 21:30:21   GetCPDataWeb 浙江 2014/11/20 21:30:21
+2014/11/20 21:30:20   GetCPDataWeb 江苏 2014/11/20 21:30:20
+2014/11/20 21:30:20   GetCPDataWeb 重庆 2014/11/20 21:30:20
+2014/11/20 21:30:20   GetCPDataWeb 江西2014/11/20 21:30:20
+2014/11/20 21:30:18   GetCPDataWeb 山东 2014/11/20 21:30:18
+2014/11/20 21:30:18   GetCPDataWeb 广东 2014/11/20 21:30:18
+2014/11/20 21:30:17   GetCPDataWeb 2014/11/20 21:30:17
+2014/11/20 21:30:17   updateCPDataTimer_Tick 2014/11/20 21:30:17
+2014/11/19 19:31:02   GetCPDataWeb 2014/11/19 19:31:02
+2014/11/19 19:31:02   updateCPDataTimer_Tick 2014/11/19 19:31:02
+2014/11/19 19:30:21   GetCPDataWeb 2014/11/19 19:30:21
+2014/11/19 19:23:02   GetCPDataWeb 上海 2014/11/19 19:23:02
+2014/11/19 19:23:02   GetCPDataWeb 浙江 2014/11/19 19:23:02
+2014/11/19 19:23:01   GetCPDataWeb 江苏 2014/11/19 19:23:01
+2014/11/19 19:23:01   GetCPDataWeb 重庆 2014/11/19 19:23:01
+2014/11/19 19:23:01   重庆 加入数据库成功 2014/11/19 19:23:01 INSERT INTO cyycpdata (CDay, CType, CData, AddDate, InputMan, CName, OpenTime) SELECT '14111963',4,'1004110205', NOW(),'Server','重庆', '2014-11-19 19:20:45' FROM DUAL WHERE NOT EXISTS (SELECT * FROM cyycpdata WHERE CDay = '14111963' AND CType = 4);
+2014/11/19 19:23:01   重庆 开始加入到数据库 2014/11/19 19:23:01
+2014/11/19 19:23:00   GetCPDataWeb 江西2014/11/19 19:23:00
+2014/11/19 19:23:00   江西 加入数据库成功 2014/11/19 19:23:00 INSERT INTO cyycpdata (CDay, CType, CData, AddDate, InputMan, CName, OpenTime) SELECT '14111962',3,'0805060111', NOW(),'Server','江西', '2014-11-19 19:20:42' FROM DUAL WHERE NOT EXISTS (SELECT * FROM cyycpdata WHERE CDay = '14111962' AND CType = 3);
+2014/11/19 19:23:00   江西 开始加入到数据库 2014/11/19 19:23:00
+2014/11/19 19:22:57   GetCPDataWeb 山东 2014/11/19 19:22:57
+2014/11/19 19:22:57   山东 加入数据库成功 2014/11/19 19:22:57 INSERT INTO cyycpdata (CDay, CType, CData, AddDate, InputMan, CName, OpenTime) SELECT '14111962',1,'0409051001', NOW(),'Server','山东', '2014-11-19 19:15:20' FROM DUAL WHERE NOT EXISTS (SELECT * FROM cyycpdata WHERE CDay = '14111962' AND CType = 1);
+2014/11/19 19:22:57   山东 开始加入到数据库 2014/11/19 19:22:57
+2014/11/19 19:22:56   GetCPDataWeb 广东 2014/11/19 19:22:56
+2014/11/19 19:22:56   广东 加入数据库成功 2014/11/19 19:22:56 INSERT INTO cyycpdata (CDay, CType, CData, AddDate, InputMan, CName, OpenTime) SELECT '14111961',2,'0609110110', NOW(),'Server','广东', '2014-11-19 19:10:00' FROM DUAL WHERE NOT EXISTS (SELECT * FROM cyycpdata WHERE CDay = '14111961' AND CType = 2);
+2014/11/19 19:22:56   广东 开始加入到数据库 2014/11/19 19:22:56
+2014/11/19 19:22:54   GetCPDataWeb 2014/11/19 19:22:54
+2014/11/19 19:22:54   updateCPDataTimer_Tick 2014/11/19 19:22:54
+2014/11/19 19:22:52   GetCPDataWeb 上海 2014/11/19 19:22:52
+2014/11/19 19:22:52   GetCPDataWeb 浙江 2014/11/19 19:22:52
+2014/11/19 19:22:52   GetCPDataWeb 江苏 2014/11/19 19:22:52
+2014/11/19 19:22:51   GetCPDataWeb 重庆 2014/11/19 19:22:51
+2014/11/19 19:22:51   重庆 加入数据库成功 2014/11/19 19:22:51 INSERT INTO cyycpdata (CDay, CType, CData, AddDate, InputMan, CName, OpenTime) SELECT '14111963',4,'1004110205', NOW(),'Server','重庆', '2014-11-19 19:20:27' FROM DUAL WHERE NOT EXISTS (SELECT * FROM cyycpdata WHERE CDay = '14111963' AND CType = 4);
+2014/11/19 19:22:51   重庆 开始加入到数据库 2014/11/19 19:22:51
+2014/11/19 19:22:51   GetCPDataWeb 江西2014/11/19 19:22:51
+2014/11/19 19:22:51   江西 加入数据库成功 2014/11/19 19:22:51 INSERT INTO cyycpdata (CDay, CType, CData, AddDate, InputMan, CName, OpenTime) SELECT '14111962',3,'0805060111', NOW(),'Server','江西', '2014-11-19 19:20:07' FROM DUAL WHERE NOT EXISTS (SELECT * FROM cyycpdata WHERE CDay = '14111962' AND CType = 3);
+2014/11/19 19:22:51   江西 开始加入到数据库 2014/11/19 19:22:51
+2014/11/19 19:22:50   GetCPDataWeb 山东 2014/11/19 19:22:50
+2014/11/19 19:22:50   山东 加入数据库成功 2014/11/19 19:22:50 INSERT INTO cyycpdata (CDay, CType, CData, AddDate, InputMan, CName, OpenTime) SELECT '14111962',1,'0409051001', NOW(),'Server','山东', '2014-11-19 19:15:20' FROM DUAL WHERE NOT EXISTS (SELECT * FROM cyycpdata WHERE CDay = '14111962' AND CType = 1);
+2014/11/19 19:22:50   山东 开始加入到数据库 2014/11/19 19:22:50
+2014/11/19 19:22:49   GetCPDataWeb 广东 2014/11/19 19:22:49
+2014/11/19 19:22:49   广东 加入数据库成功 2014/11/19 19:22:49 INSERT INTO cyycpdata (CDay, CType, CData, AddDate, InputMan, CName, OpenTime) SELECT '14111961',2,'0609110110', NOW(),'Server','广东', '2014-11-19 19:10:00' FROM DUAL WHERE NOT EXISTS (SELECT * FROM cyycpdata WHERE CDay = '14111961' AND CType = 2);
+2014/11/19 19:22:49   广东 开始加入到数据库 2014/11/19 19:22:49
+2014/11/19 19:22:47   GetCPDataWeb 2014/11/19 19:22:47
+2014/11/19 19:22:47   updateCPDataTimer_Tick 2014/11/19 19:22:47
+2014/11/19 19:22:46   GetCPDataWeb 上海 2014/11/19 19:22:46
+2014/11/19 19:22:46   GetCPDataWeb 浙江 2014/11/19 19:22:46
+2014/11/19 19:22:45   GetCPDataWeb 江苏 2014/11/19 19:22:45
+2014/11/19 19:22:45   GetCPDataWeb 重庆 2014/11/19 19:22:45
+2014/11/19 19:22:45   重庆 加入数据库成功 2014/11/19 19:22:45 INSERT INTO cyycpdata (CDay, CType, CData, AddDate, InputMan, CName, OpenTime) SELECT '14111963',4,'1004110205', NOW(),'Server','重庆', '2014-11-19 19:20:31' FROM DUAL WHERE NOT EXISTS (SELECT * FROM cyycpdata WHERE CDay = '14111963' AND CType = 4);
+2014/11/19 19:22:45   重庆 开始加入到数据库 2014/11/19 19:22:45
+2014/11/19 19:22:45   GetCPDataWeb 江西2014/11/19 19:22:45
+2014/11/19 19:22:45   江西 加入数据库成功 2014/11/19 19:22:45 INSERT INTO cyycpdata (CDay, CType, CData, AddDate, InputMan, CName, OpenTime) SELECT '14111962',3,'0805060111', NOW(),'Server','江西', '2014-11-19 19:20:13' FROM DUAL WHERE NOT EXISTS (SELECT * FROM cyycpdata WHERE CDay = '14111962' AND CType = 3);
+2014/11/19 19:22:44   江西 开始加入到数据库 2014/11/19 19:22:44
+2014/11/19 19:22:44   GetCPDataWeb 山东 2014/11/19 19:22:44
+2014/11/19 19:22:44   山东 加入数据库成功 2014/11/19 19:22:44 INSERT INTO cyycpdata (CDay, CType, CData, AddDate, InputMan, CName, OpenTime) SELECT '14111962',1,'0409051001', NOW(),'Server','山东', '2014-11-19 19:15:20' FROM DUAL WHERE NOT EXISTS (SELECT * FROM cyycpdata WHERE CDay = '14111962' AND CType = 1);
+2014/11/19 19:22:44   山东 开始加入到数据库 2014/11/19 19:22:44
+2014/11/19 19:22:43   GetCPDataWeb 广东 2014/11/19 19:22:43
+2014/11/19 19:22:43   广东 加入数据库成功 2014/11/19 19:22:43 INSERT INTO cyycpdata (CDay, CType, CData, AddDate, InputMan, CName, OpenTime) SELECT '14111961',2,'0609110110', NOW(),'Server','广东', '2014-11-19 19:10:00' FROM DUAL WHERE NOT EXISTS (SELECT * FROM cyycpdata WHERE CDay = '14111961' AND CType = 2);
+2014/11/19 19:22:43   广东 开始加入到数据库 2014/11/19 19:22:43
+2014/11/19 19:22:40   GetCPDataWeb 2014/11/19 19:22:40
+2014/11/19 19:22:40   updateCPDataTimer_Tick 2014/11/19 19:22:40
+2014/11/19 19:22:37   GetCPDataWeb 上海 2014/11/19 19:22:37
+2014/11/19 19:22:37   GetCPDataWeb 浙江 2014/11/19 19:22:37
+2014/11/19 19:22:36   GetCPDataWeb 江苏 2014/11/19 19:22:36
+2014/11/19 19:22:36   GetCPDataWeb 重庆 2014/11/19 19:22:36
+2014/11/19 19:22:36   重庆 加入数据库成功 2014/11/19 19:22:36 INSERT INTO cyycpdata (CDay, CType, CData, AddDate, InputMan, CName, OpenTime) SELECT '14111963',4,'1004110205', NOW(),'Server','重庆', '2014-11-19 19:20:51' FROM DUAL WHERE NOT EXISTS (SELECT * FROM cyycpdata WHERE CDay = '14111963' AND CType = 4);
+2014/11/19 19:22:36   重庆 开始加入到数据库 2014/11/19 19:22:36
+2014/11/19 19:22:35   GetCPDataWeb 江西2014/11/19 19:22:35
+2014/11/19 19:22:35   江西 加入数据库成功 2014/11/19 19:22:35 INSERT INTO cyycpdata (CDay, CType, CData, AddDate, InputMan, CName, OpenTime) SELECT '14111962',3,'0805060111', NOW(),'Server','江西', '2014-11-19 19:20:31' FROM DUAL WHERE NOT EXISTS (SELECT * FROM cyycpdata WHERE CDay = '14111962' AND CType = 3);
+2014/11/19 19:22:35   江西 开始加入到数据库 2014/11/19 19:22:35
+2014/11/19 19:22:35   GetCPDataWeb 山东 2014/11/19 19:22:35
+2014/11/19 19:22:35   山东 加入数据库成功 2014/11/19 19:22:35 INSERT INTO cyycpdata (CDay, CType, CData, AddDate, InputMan, CName, OpenTime) SELECT '14111962',1,'0409051001', NOW(),'Server','山东', '2014-11-19 19:15:20' FROM DUAL WHERE NOT EXISTS (SELECT * FROM cyycpdata WHERE CDay = '14111962' AND CType = 1);
+2014/11/19 19:22:35   山东 开始加入到数据库 2014/11/19 19:22:35
+2014/11/19 19:22:34   GetCPDataWeb 广东 2014/11/19 19:22:34
+2014/11/19 19:22:34   广东 加入数据库成功 2014/11/19 19:22:34 INSERT INTO cyycpdata (CDay, CType, CData, AddDate, InputMan, CName, OpenTime) SELECT '14111961',2,'0609110110', NOW(),'Server','广东', '2014-11-19 19:10:00' FROM DUAL WHERE NOT EXISTS (SELECT * FROM cyycpdata WHERE CDay = '14111961' AND CType = 2);
+2014/11/19 19:22:34   广东 开始加入到数据库 2014/11/19 19:22:34
+2014/11/19 19:22:33   GetCPDataWeb 2014/11/19 19:22:33
+2014/11/19 19:22:33   updateCPDataTimer_Tick 2014/11/19 19:22:33
+2014/11/19 19:22:32   GetCPDataWeb 上海 2014/11/19 19:22:32
+2014/11/19 19:22:32   GetCPDataWeb 浙江 2014/11/19 19:22:32
+2014/11/19 19:22:32   GetCPDataWeb 江苏 2014/11/19 19:22:32
+2014/11/19 19:22:31   GetCPDataWeb 重庆 2014/11/19 19:22:31
+2014/11/19 19:22:31   重庆 加入数据库成功 2014/11/19 19:22:31 INSERT INTO cyycpdata (CDay, CType, CData, AddDate, InputMan, CName, OpenTime) SELECT '14111963',4,'1004110205', NOW(),'Server','重庆', '2014-11-19 19:20:19' FROM DUAL WHERE NOT EXISTS (SELECT * FROM cyycpdata WHERE CDay = '14111963' AND CType = 4);
+2014/11/19 19:22:31   重庆 开始加入到数据库 2014/11/19 19:22:31
+2014/11/19 19:22:31   GetCPDataWeb 江西2014/11/19 19:22:31
+2014/11/19 19:22:31   江西 加入数据库成功 2014/11/19 19:22:31 INSERT INTO cyycpdata (CDay, CType, CData, AddDate, InputMan, CName, OpenTime) SELECT '14111962',3,'0805060111', NOW(),'Server','江西', '2014-11-19 19:20:02' FROM DUAL WHERE NOT EXISTS (SELECT * FROM cyycpdata WHERE CDay = '14111962' AND CType = 3);
+2014/11/19 19:22:31   江西 开始加入到数据库 2014/11/19 19:22:31
+2014/11/19 19:22:30   GetCPDataWeb 山东 2014/11/19 19:22:30
+2014/11/19 19:22:30   山东 加入数据库成功 2014/11/19 19:22:30 INSERT INTO cyycpdata (CDay, CType, CData, AddDate, InputMan, CName, OpenTime) SELECT '14111962',1,'0409051001', NOW(),'Server','山东', '2014-11-19 19:15:20' FROM DUAL WHERE NOT EXISTS (SELECT * FROM cyycpdata WHERE CDay = '14111962' AND CType = 1);
+2014/11/19 19:22:30   山东 开始加入到数据库 2014/11/19 19:22:30
+2014/11/19 19:22:29   GetCPDataWeb 广东 2014/11/19 19:22:29
+2014/11/19 19:22:29   广东 加入数据库成功 2014/11/19 19:22:29 INSERT INTO cyycpdata (CDay, CType, CData, AddDate, InputMan, CName, OpenTime) SELECT '14111961',2,'0609110110', NOW(),'Server','广东', '2014-11-19 19:10:00' FROM DUAL WHERE NOT EXISTS (SELECT * FROM cyycpdata WHERE CDay = '14111961' AND CType = 2);
+2014/11/19 19:22:29   广东 开始加入到数据库 2014/11/19 19:22:29
+2014/11/19 19:22:26   GetCPDataWeb 2014/11/19 19:22:26
+2014/11/19 19:22:26   updateCPDataTimer_Tick 2014/11/19 19:22:26
+2014/11/19 19:22:23   GetCPDataWeb 上海 2014/11/19 19:22:23
+2014/11/19 19:22:23   GetCPDataWeb 浙江 2014/11/19 19:22:23
+2014/11/19 19:22:23   GetCPDataWeb 江苏 2014/11/19 19:22:23
+2014/11/19 19:22:22   GetCPDataWeb 重庆 2014/11/19 19:22:22
+2014/11/19 19:22:22   重庆 加入数据库成功 2014/11/19 19:22:22 INSERT INTO cyycpdata (CDay, CType, CData, AddDate, InputMan, CName, OpenTime) SELECT '14111963',4,'1004110205', NOW(),'Server','重庆', '2014-11-19 19:20:18' FROM DUAL WHERE NOT EXISTS (SELECT * FROM cyycpdata WHERE CDay = '14111963' AND CType = 4);
+2014/11/19 19:22:22   重庆 开始加入到数据库 2014/11/19 19:22:22
+2014/11/19 19:22:22   GetCPDataWeb 江西2014/11/19 19:22:22
+2014/11/19 19:22:22   江西 加入数据库成功 2014/11/19 19:22:22 INSERT INTO cyycpdata (CDay, CType, CData, AddDate, InputMan, CName, OpenTime) SELECT '14111962',3,'0805060111', NOW(),'Server','江西', '2014-11-19 19:20:48' FROM DUAL WHERE NOT EXISTS (SELECT * FROM cyycpdata WHERE CDay = '14111962' AND CType = 3);
+2014/11/19 19:22:22   江西 开始加入到数据库 2014/11/19 19:22:22
+2014/11/19 19:22:21   GetCPDataWeb 山东 2014/11/19 19:22:21
+2014/11/19 19:22:21   山东 加入数据库成功 2014/11/19 19:22:21 INSERT INTO cyycpdata (CDay, CType, CData, AddDate, InputMan, CName, OpenTime) SELECT '14111962',1,'0409051001', NOW(),'Server','山东', '2014-11-19 19:15:20' FROM DUAL WHERE NOT EXISTS (SELECT * FROM cyycpdata WHERE CDay = '14111962' AND CType = 1);
+2014/11/19 19:22:21   山东 开始加入到数据库 2014/11/19 19:22:21
+2014/11/19 19:22:20   GetCPDataWeb 广东 2014/11/19 19:22:20
+2014/11/19 19:22:20   广东 加入数据库成功 2014/11/19 19:22:20 INSERT INTO cyycpdata (CDay, CType, CData, AddDate, InputMan, CName, OpenTime) SELECT '14111961',2,'0609110110', NOW(),'Server','广东', '2014-11-19 19:10:00' FROM DUAL WHERE NOT EXISTS (SELECT * FROM cyycpdata WHERE CDay = '14111961' AND CType = 2);
+2014/11/19 19:22:20   广东 开始加入到数据库 2014/11/19 19:22:20
+2014/11/19 19:22:19   GetCPDataWeb 2014/11/19 19:22:19
+2014/11/19 19:22:19   updateCPDataTimer_Tick 2014/11/19 19:22:19
+2014/11/19 19:22:17   GetCPDataWeb 上海 2014/11/19 19:22:17
+2014/11/19 19:22:16   GetCPDataWeb 浙江 2014/11/19 19:22:16
+2014/11/19 19:22:16   GetCPDataWeb 江苏 2014/11/19 19:22:16
+2014/11/19 19:22:16   GetCPDataWeb 重庆 2014/11/19 19:22:16
+2014/11/19 19:22:16   重庆 加入数据库成功 2014/11/19 19:22:16 INSERT INTO cyycpdata (CDay, CType, CData, AddDate, InputMan, CName, OpenTime) SELECT '14111963',4,'1004110205', NOW(),'Server','重庆', '2014-11-19 19:20:42' FROM DUAL WHERE NOT EXISTS (SELECT * FROM cyycpdata WHERE CDay = '14111963' AND CType = 4);
+2014/11/19 19:22:16   重庆 开始加入到数据库 2014/11/19 19:22:16
+2014/11/19 19:22:15   GetCPDataWeb 江西2014/11/19 19:22:15
+2014/11/19 19:22:15   江西 加入数据库成功 2014/11/19 19:22:15 INSERT INTO cyycpdata (CDay, CType, CData, AddDate, InputMan, CName, OpenTime) SELECT '14111962',3,'0805060111', NOW(),'Server','江西', '2014-11-19 19:20:34' FROM DUAL WHERE NOT EXISTS (SELECT * FROM cyycpdata WHERE CDay = '14111962' AND CType = 3);
+2014/11/19 19:22:15   江西 开始加入到数据库 2014/11/19 19:22:15
+2014/11/19 19:22:15   GetCPDataWeb 山东 2014/11/19 19:22:15
+2014/11/19 19:22:15   山东 加入数据库成功 2014/11/19 19:22:15 INSERT INTO cyycpdata (CDay, CType, CData, AddDate, InputMan, CName, OpenTime) SELECT '14111962',1,'0409051001', NOW(),'Server','山东', '2014-11-19 19:15:20' FROM DUAL WHERE NOT EXISTS (SELECT * FROM cyycpdata WHERE CDay = '14111962' AND CType = 1);
+2014/11/19 19:22:15   山东 开始加入到数据库 2014/11/19 19:22:15
+2014/11/19 19:22:14   GetCPDataWeb 广东 2014/11/19 19:22:14
+2014/11/19 19:22:14   广东 加入数据库成功 2014/11/19 19:22:14 INSERT INTO cyycpdata (CDay, CType, CData, AddDate, InputMan, CName, OpenTime) SELECT '14111961',2,'0609110110', NOW(),'Server','广东', '2014-11-19 19:10:00' FROM DUAL WHERE NOT EXISTS (SELECT * FROM cyycpdata WHERE CDay = '14111961' AND CType = 2);
+2014/11/19 19:22:14   广东 开始加入到数据库 2014/11/19 19:22:14
+2014/11/19 19:22:13   GetCPDataWeb 2014/11/19 19:22:13
+2014/11/19 19:22:13   updateCPDataTimer_Tick 2014/11/19 19:22:13
+2014/11/19 19:22:13   GetCPDataWeb 上海 2014/11/19 19:22:13
+2014/11/19 19:22:12   GetCPDataWeb 浙江 2014/11/19 19:22:12
+2014/11/19 19:22:12   GetCPDataWeb 江苏 2014/11/19 19:22:12
+2014/11/19 19:22:12   GetCPDataWeb 重庆 2014/11/19 19:22:12
+2014/11/19 19:22:12   重庆 加入数据库成功 2014/11/19 19:22:12 INSERT INTO cyycpdata (CDay, CType, CData, AddDate, InputMan, CName, OpenTime) SELECT '14111963',4,'1004110205', NOW(),'Server','重庆', '2014-11-19 19:20:22' FROM DUAL WHERE NOT EXISTS (SELECT * FROM cyycpdata WHERE CDay = '14111963' AND CType = 4);
+2014/11/19 19:22:12   重庆 开始加入到数据库 2014/11/19 19:22:12
+2014/11/19 19:22:11   GetCPDataWeb 江西2014/11/19 19:22:11
+2014/11/19 19:22:11   江西 加入数据库成功 2014/11/19 19:22:11 INSERT INTO cyycpdata (CDay, CType, CData, AddDate, InputMan, CName, OpenTime) SELECT '14111962',3,'0805060111', NOW(),'Server','江西', '2014-11-19 19:20:04' FROM DUAL WHERE NOT EXISTS (SELECT * FROM cyycpdata WHERE CDay = '14111962' AND CType = 3);
+2014/11/19 19:22:11   江西 开始加入到数据库 2014/11/19 19:22:11
+2014/11/19 19:22:11   GetCPDataWeb 山东 2014/11/19 19:22:11
+2014/11/19 19:22:11   山东 加入数据库成功 2014/11/19 19:22:11 INSERT INTO cyycpdata (CDay, CType, CData, AddDate, InputMan, CName, OpenTime) SELECT '14111962',1,'0409051001', NOW(),'Server','山东', '2014-11-19 19:15:20' FROM DUAL WHERE NOT EXISTS (SELECT * FROM cyycpdata WHERE CDay = '14111962' AND CType = 1);
+2014/11/19 19:22:11   山东 开始加入到数据库 2014/11/19 19:22:11
+2014/11/19 19:22:09   GetCPDataWeb 广东 2014/11/19 19:22:09
+2014/11/19 19:22:09   广东 加入数据库成功 2014/11/19 19:22:09 INSERT INTO cyycpdata (CDay, CType, CData, AddDate, InputMan, CName, OpenTime) SELECT '14111961',2,'0609110110', NOW(),'Server','广东', '2014-11-19 19:10:00' FROM DUAL WHERE NOT EXISTS (SELECT * FROM cyycpdata WHERE CDay = '14111961' AND CType = 2);
+2014/11/19 19:22:09   广东 开始加入到数据库 2014/11/19 19:22:09
+2014/11/19 19:22:03   GetCPDataWeb 2014/11/19 19:22:03
+2014/11/19 19:22:03   updateCPDataTimer_Tick 2014/11/19 19:22:03
+2014/11/19 19:22:03   GetCPDataWeb 上海 2014/11/19 19:22:03
+2014/11/19 19:22:03   GetCPDataWeb 浙江 2014/11/19 19:22:03
+2014/11/19 19:22:02   GetCPDataWeb 江苏 2014/11/19 19:22:02
+2014/11/19 19:22:02   GetCPDataWeb 重庆 2014/11/19 19:22:02
+2014/11/19 19:22:02   重庆 加入数据库成功 2014/11/19 19:22:02 INSERT INTO cyycpdata (CDay, CType, CData, AddDate, InputMan, CName, OpenTime) SELECT '14111963',4,'1004110205', NOW(),'Server','重庆', '2014-11-19 19:20:34' FROM DUAL WHERE NOT EXISTS (SELECT * FROM cyycpdata WHERE CDay = '14111963' AND CType = 4);
+2014/11/19 19:22:02   重庆 开始加入到数据库 2014/11/19 19:22:02
+2014/11/19 19:22:01   GetCPDataWeb 江西2014/11/19 19:22:01
+2014/11/19 19:22:01   江西 加入数据库成功 2014/11/19 19:22:01 INSERT INTO cyycpdata (CDay, CType, CData, AddDate, InputMan, CName, OpenTime) SELECT '14111962',3,'0805060111', NOW(),'Server','江西', '2014-11-19 19:20:22' FROM DUAL WHERE NOT EXISTS (SELECT * FROM cyycpdata WHERE CDay = '14111962' AND CType = 3);
+2014/11/19 19:22:01   江西 开始加入到数据库 2014/11/19 19:22:01
+2014/11/19 19:22:01   GetCPDataWeb 山东 2014/11/19 19:22:01
+2014/11/19 19:22:01   山东 加入数据库成功 2014/11/19 19:22:01 INSERT INTO cyycpdata (CDay, CType, CData, AddDate, InputMan, CName, OpenTime) SELECT '14111962',1,'0409051001', NOW(),'Server','山东', '2014-11-19 19:15:20' FROM DUAL WHERE NOT EXISTS (SELECT * FROM cyycpdata WHERE CDay = '14111962' AND CType = 1);
+2014/11/19 19:22:01   山东 开始加入到数据库 2014/11/19 19:22:01
+2014/11/19 19:21:58   GetCPDataWeb 广东 2014/11/19 19:21:58
+2014/11/19 19:21:58   广东 加入数据库成功 2014/11/19 19:21:58 INSERT INTO cyycpdata (CDay, CType, CData, AddDate, InputMan, CName, OpenTime) SELECT '14111961',2,'0609110110', NOW(),'Server','广东', '2014-11-19 19:10:00' FROM DUAL WHERE NOT EXISTS (SELECT * FROM cyycpdata WHERE CDay = '14111961' AND CType = 2);
+2014/11/19 19:21:58   广东 开始加入到数据库 2014/11/19 19:21:58
+2014/11/19 19:21:51   GetCPDataWeb 2014/11/19 19:21:51
+2014/11/19 19:21:51   updateCPDataTimer_Tick 2014/11/19 19:21:51
+2014/11/19 19:21:51   GetCPDataWeb 上海 2014/11/19 19:21:51
+2014/11/19 19:21:50   GetCPDataWeb 浙江 2014/11/19 19:21:50
+2014/11/19 19:21:50   GetCPDataWeb 江苏 2014/11/19 19:21:50
+2014/11/19 19:21:50   GetCPDataWeb 重庆 2014/11/19 19:21:50
+2014/11/19 19:21:50   重庆 加入数据库成功 2014/11/19 19:21:50 INSERT INTO cyycpdata (CDay, CType, CData, AddDate, InputMan, CName, OpenTime) SELECT '14111963',4,'1004110205', NOW(),'Server','重庆', '2014-11-19 19:20:47' FROM DUAL WHERE NOT EXISTS (SELECT * FROM cyycpdata WHERE CDay = '14111963' AND CType = 4);
+2014/11/19 19:21:49   重庆 开始加入到数据库 2014/11/19 19:21:49
+2014/11/19 19:21:49   GetCPDataWeb 江西2014/11/19 19:21:49
+2014/11/19 19:21:49   江西 加入数据库成功 2014/11/19 19:21:49 INSERT INTO cyycpdata (CDay, CType, CData, AddDate, InputMan, CName, OpenTime) SELECT '14111962',3,'0805060111', NOW(),'Server','江西', '2014-11-19 19:20:44' FROM DUAL WHERE NOT EXISTS (SELECT * FROM cyycpdata WHERE CDay = '14111962' AND CType = 3);
+2014/11/19 19:21:49   江西 开始加入到数据库 2014/11/19 19:21:49
+2014/11/19 19:21:35   GetCPDataWeb 山东 2014/11/19 19:21:35
+2014/11/19 19:21:35   山东 加入数据库成功 2014/11/19 19:21:35 INSERT INTO cyycpdata (CDay, CType, CData, AddDate, InputMan, CName, OpenTime) SELECT '14111962',1,'0409051001', NOW(),'Server','山东', '2014-11-19 19:15:20' FROM DUAL WHERE NOT EXISTS (SELECT * FROM cyycpdata WHERE CDay = '14111962' AND CType = 1);
+2014/11/19 19:21:35   山东 开始加入到数据库 2014/11/19 19:21:35
+2014/11/19 19:21:32   GetCPDataWeb 广东 2014/11/19 19:21:32
+2014/11/19 19:21:32   广东 加入数据库成功 2014/11/19 19:21:32 INSERT INTO cyycpdata (CDay, CType, CData, AddDate, InputMan, CName, OpenTime) SELECT '14111961',2,'0609110110', NOW(),'Server','广东', '2014-11-19 19:10:00' FROM DUAL WHERE NOT EXISTS (SELECT * FROM cyycpdata WHERE CDay = '14111961' AND CType = 2);
+2014/11/19 19:21:32   广东 开始加入到数据库 2014/11/19 19:21:32
+2014/11/19 19:21:29   GetCPDataWeb 2014/11/19 19:21:29
+2014/11/19 19:21:29   updateCPDataTimer_Tick 2014/11/19 19:21:29
+2014/11/19 19:21:29   GetCPDataWeb 上海 2014/11/19 19:21:29
+2014/11/19 19:21:29   GetCPDataWeb 浙江 2014/11/19 19:21:29
+2014/11/19 19:21:28   GetCPDataWeb 江苏 2014/11/19 19:21:28
+2014/11/19 19:21:28   GetCPDataWeb 重庆 2014/11/19 19:21:28
+2014/11/19 19:21:28   重庆 加入数据库成功 2014/11/19 19:21:28 INSERT INTO cyycpdata (CDay, CType, CData, AddDate, InputMan, CName, OpenTime) SELECT '14111962',4,'0704090502', NOW(),'Server','重庆', '2014-11-19 19:10:54' FROM DUAL WHERE NOT EXISTS (SELECT * FROM cyycpdata WHERE CDay = '14111962' AND CType = 4);
+2014/11/19 19:21:28   重庆 开始加入到数据库 2014/11/19 19:21:28
+2014/11/19 19:21:28   GetCPDataWeb 江西2014/11/19 19:21:28
+2014/11/19 19:21:28   江西 加入数据库成功 2014/11/19 19:21:28 INSERT INTO cyycpdata (CDay, CType, CData, AddDate, InputMan, CName, OpenTime) SELECT '14111962',3,'0805060111', NOW(),'Server','江西', '2014-11-19 19:20:25' FROM DUAL WHERE NOT EXISTS (SELECT * FROM cyycpdata WHERE CDay = '14111962' AND CType = 3);
+2014/11/19 19:21:27   江西 开始加入到数据库 2014/11/19 19:21:27
+2014/11/19 19:21:27   GetCPDataWeb 山东 2014/11/19 19:21:27
+2014/11/19 19:21:27   山东 加入数据库成功 2014/11/19 19:21:27 INSERT INTO cyycpdata (CDay, CType, CData, AddDate, InputMan, CName, OpenTime) SELECT '14111962',1,'0409051001', NOW(),'Server','山东', '2014-11-19 19:15:20' FROM DUAL WHERE NOT EXISTS (SELECT * FROM cyycpdata WHERE CDay = '14111962' AND CType = 1);
+2014/11/19 19:21:27   山东 开始加入到数据库 2014/11/19 19:21:27
+2014/11/19 19:21:24   GetCPDataWeb 广东 2014/11/19 19:21:24
+2014/11/19 19:21:24   广东 加入数据库成功 2014/11/19 19:21:24 INSERT INTO cyycpdata (CDay, CType, CData, AddDate, InputMan, CName, OpenTime) SELECT '14111961',2,'0609110110', NOW(),'Server','广东', '2014-11-19 19:10:00' FROM DUAL WHERE NOT EXISTS (SELECT * FROM cyycpdata WHERE CDay = '14111961' AND CType = 2);
+2014/11/19 19:21:24   广东 开始加入到数据库 2014/11/19 19:21:24
+2014/11/19 19:21:18   GetCPDataWeb 2014/11/19 19:21:18
+2014/11/19 19:21:18   updateCPDataTimer_Tick 2014/11/19 19:21:18
+2014/11/19 19:21:18   GetCPDataWeb 上海 2014/11/19 19:21:18
+2014/11/19 19:21:18   GetCPDataWeb 浙江 2014/11/19 19:21:18
+2014/11/19 19:21:18   GetCPDataWeb 江苏 2014/11/19 19:21:18
+2014/11/19 19:21:17   GetCPDataWeb 重庆 2014/11/19 19:21:17
+2014/11/19 19:21:17   重庆 加入数据库成功 2014/11/19 19:21:17 INSERT INTO cyycpdata (CDay, CType, CData, AddDate, InputMan, CName, OpenTime) SELECT '14111962',4,'0704090502', NOW(),'Server','重庆', '2014-11-19 19:10:35' FROM DUAL WHERE NOT EXISTS (SELECT * FROM cyycpdata WHERE CDay = '14111962' AND CType = 4);
+2014/11/19 19:21:17   重庆 开始加入到数据库 2014/11/19 19:21:17
+2014/11/19 19:21:17   GetCPDataWeb 江西2014/11/19 19:21:17
+2014/11/19 19:21:17   江西 加入数据库成功 2014/11/19 19:21:17 INSERT INTO cyycpdata (CDay, CType, CData, AddDate, InputMan, CName, OpenTime) SELECT '14111962',3,'0805060111', NOW(),'Server','江西', '2014-11-19 19:20:27' FROM DUAL WHERE NOT EXISTS (SELECT * FROM cyycpdata WHERE CDay = '14111962' AND CType = 3);
+2014/11/19 19:21:17   江西 开始加入到数据库 2014/11/19 19:21:17
+2014/11/19 19:21:17   GetCPDataWeb 山东 2014/11/19 19:21:17
+2014/11/19 19:21:17   山东 加入数据库成功 2014/11/19 19:21:17 INSERT INTO cyycpdata (CDay, CType, CData, AddDate, InputMan, CName, OpenTime) SELECT '14111962',1,'0409051001', NOW(),'Server','山东', '2014-11-19 19:15:20' FROM DUAL WHERE NOT EXISTS (SELECT * FROM cyycpdata WHERE CDay = '14111962' AND CType = 1);
+2014/11/19 19:21:16   山东 开始加入到数据库 2014/11/19 19:21:16
+2014/11/19 19:21:11   GetCPDataWeb 广东 2014/11/19 19:21:11
+2014/11/19 19:21:11   广东 加入数据库成功 2014/11/19 19:21:11 INSERT INTO cyycpdata (CDay, CType, CData, AddDate, InputMan, CName, OpenTime) SELECT '14111961',2,'0609110110', NOW(),'Server','广东', '2014-11-19 19:10:00' FROM DUAL WHERE NOT EXISTS (SELECT * FROM cyycpdata WHERE CDay = '14111961' AND CType = 2);
+2014/11/19 19:21:11   广东 开始加入到数据库 2014/11/19 19:21:11
+2014/11/19 19:21:08   GetCPDataWeb 2014/11/19 19:21:08
+2014/11/19 19:21:08   updateCPDataTimer_Tick 2014/11/19 19:21:08
+2014/11/19 19:21:08   GetCPDataWeb 上海 2014/11/19 19:21:08
+2014/11/19 19:21:08   GetCPDataWeb 浙江 2014/11/19 19:21:08
+2014/11/19 19:21:07   GetCPDataWeb 江苏 2014/11/19 19:21:07
+2014/11/19 19:21:07   GetCPDataWeb 重庆 2014/11/19 19:21:07
+2014/11/19 19:21:07   重庆 加入数据库成功 2014/11/19 19:21:07 INSERT INTO cyycpdata (CDay, CType, CData, AddDate, InputMan, CName, OpenTime) SELECT '14111962',4,'0704090502', NOW(),'Server','重庆', '2014-11-19 19:10:15' FROM DUAL WHERE NOT EXISTS (SELECT * FROM cyycpdata WHERE CDay = '14111962' AND CType = 4);
+2014/11/19 19:21:07   重庆 开始加入到数据库 2014/11/19 19:21:07
+2014/11/19 19:21:06   GetCPDataWeb 江西2014/11/19 19:21:06
+2014/11/19 19:21:06   江西 加入数据库成功 2014/11/19 19:21:06 INSERT INTO cyycpdata (CDay, CType, CData, AddDate, InputMan, CName, OpenTime) SELECT '14111962',3,'0805060111', NOW(),'Server','江西', '2014-11-19 19:20:33' FROM DUAL WHERE NOT EXISTS (SELECT * FROM cyycpdata WHERE CDay = '14111962' AND CType = 3);
+2014/11/19 19:21:06   江西 开始加入到数据库 2014/11/19 19:21:06
+2014/11/19 19:21:01   GetCPDataWeb 山东 2014/11/19 19:21:01
+2014/11/19 19:21:01   山东 加入数据库成功 2014/11/19 19:21:01 INSERT INTO cyycpdata (CDay, CType, CData, AddDate, InputMan, CName, OpenTime) SELECT '14111962',1,'0409051001', NOW(),'Server','山东', '2014-11-19 19:15:20' FROM DUAL WHERE NOT EXISTS (SELECT * FROM cyycpdata WHERE CDay = '14111962' AND CType = 1);
+2014/11/19 19:21:01   山东 开始加入到数据库 2014/11/19 19:21:01
+2014/11/19 19:20:43   GetCPDataWeb 广东 2014/11/19 19:20:43
+2014/11/19 19:20:43   广东 加入数据库成功 2014/11/19 19:20:43 INSERT INTO cyycpdata (CDay, CType, CData, AddDate, InputMan, CName, OpenTime) SELECT '14111961',2,'0609110110', NOW(),'Server','广东', '2014-11-19 19:10:00' FROM DUAL WHERE NOT EXISTS (SELECT * FROM cyycpdata WHERE CDay = '14111961' AND CType = 2);
+2014/11/19 19:20:42   广东 开始加入到数据库 2014/11/19 19:20:42
+2014/11/19 19:20:36   GetCPDataWeb 2014/11/19 19:20:36
+2014/11/19 19:20:36   updateCPDataTimer_Tick 2014/11/19 19:20:36
+2014/11/19 19:20:36   GetCPDataWeb 上海 2014/11/19 19:20:36
+2014/11/19 19:20:36   GetCPDataWeb 浙江 2014/11/19 19:20:36
+2014/11/19 19:20:36   GetCPDataWeb 江苏 2014/11/19 19:20:36
+2014/11/19 19:20:35   GetCPDataWeb 重庆 2014/11/19 19:20:35
+2014/11/19 19:20:35   重庆 加入数据库成功 2014/11/19 19:20:35 INSERT INTO cyycpdata (CDay, CType, CData, AddDate, InputMan, CName, OpenTime) SELECT '14111962',4,'0704090502', NOW(),'Server','重庆', '2014-11-19 19:10:51' FROM DUAL WHERE NOT EXISTS (SELECT * FROM cyycpdata WHERE CDay = '14111962' AND CType = 4);
+2014/11/19 19:20:35   重庆 开始加入到数据库 2014/11/19 19:20:35
+2014/11/19 19:20:30   GetCPDataWeb 江西2014/11/19 19:20:30
+2014/11/19 19:20:30   江西 加入数据库成功 2014/11/19 19:20:30 INSERT INTO cyycpdata (CDay, CType, CData, AddDate, InputMan, CName, OpenTime) SELECT '14111962',3,'0805060111', NOW(),'Server','江西', '2014-11-19 19:20:38' FROM DUAL WHERE NOT EXISTS (SELECT * FROM cyycpdata WHERE CDay = '14111962' AND CType = 3);
+2014/11/19 19:20:30   江西 开始加入到数据库 2014/11/19 19:20:30
+2014/11/19 19:20:21   GetCPDataWeb 山东 2014/11/19 19:20:21
+2014/11/19 19:20:21   山东 加入数据库成功 2014/11/19 19:20:21 INSERT INTO cyycpdata (CDay, CType, CData, AddDate, InputMan, CName, OpenTime) SELECT '14111962',1,'0409051001', NOW(),'Server','山东', '2014-11-19 19:15:20' FROM DUAL WHERE NOT EXISTS (SELECT * FROM cyycpdata WHERE CDay = '14111962' AND CType = 1);
+2014/11/19 19:20:21   山东 开始加入到数据库 2014/11/19 19:20:21
+2014/11/19 19:20:18   GetCPDataWeb 广东 2014/11/19 19:20:18
+2014/11/19 19:20:18   广东 加入数据库成功 2014/11/19 19:20:18 INSERT INTO cyycpdata (CDay, CType, CData, AddDate, InputMan, CName, OpenTime) SELECT '14111961',2,'0609110110', NOW(),'Server','广东', '2014-11-19 19:10:00' FROM DUAL WHERE NOT EXISTS (SELECT * FROM cyycpdata WHERE CDay = '14111961' AND CType = 2);
+2014/11/19 19:20:17   广东 开始加入到数据库 2014/11/19 19:20:17
+2014/11/19 19:20:06   GetCPDataWeb 2014/11/19 19:20:06
+2014/11/19 19:20:06   updateCPDataTimer_Tick 2014/11/19 19:20:06
+2014/11/19 19:18:28   GetCPDataWeb 上海 2014/11/19 19:18:28
+2014/11/19 19:18:27   GetCPDataWeb 浙江 2014/11/19 19:18:27
+2014/11/19 19:18:27   GetCPDataWeb 江苏 2014/11/19 19:18:27
+2014/11/19 19:18:27   GetCPDataWeb 重庆 2014/11/19 19:18:27
+2014/11/19 19:18:27   重庆 加入数据库成功 2014/11/19 19:18:27 INSERT INTO cyycpdata (CDay, CType, CData, AddDate, InputMan, CName, OpenTime) SELECT '14111962',4,'0704090502', NOW(),'Server','重庆', '2014-11-19 19:10:48' FROM DUAL WHERE NOT EXISTS (SELECT * FROM cyycpdata WHERE CDay = '14111962' AND CType = 4);
+2014/11/19 19:18:26   重庆 开始加入到数据库 2014/11/19 19:18:26
+2014/11/19 19:18:26   GetCPDataWeb 江西2014/11/19 19:18:26
+2014/11/19 19:18:26   江西 加入数据库成功 2014/11/19 19:18:26 INSERT INTO cyycpdata (CDay, CType, CData, AddDate, InputMan, CName, OpenTime) SELECT '14111961',3,'0110110906', NOW(),'Server','江西', '2014-11-19 19:10:01' FROM DUAL WHERE NOT EXISTS (SELECT * FROM cyycpdata WHERE CDay = '14111961' AND CType = 3);
+2014/11/19 19:18:26   江西 开始加入到数据库 2014/11/19 19:18:26
+2014/11/19 19:18:16   GetCPDataWeb 山东 2014/11/19 19:18:16
+2014/11/19 19:18:16   山东 加入数据库成功 2014/11/19 19:18:16 INSERT INTO cyycpdata (CDay, CType, CData, AddDate, InputMan, CName, OpenTime) SELECT '14111962',1,'0409051001', NOW(),'Server','山东', '2014-11-19 19:15:20' FROM DUAL WHERE NOT EXISTS (SELECT * FROM cyycpdata WHERE CDay = '14111962' AND CType = 1);
+2014/11/19 19:18:15   山东 开始加入到数据库 2014/11/19 19:18:15
+2014/11/19 19:18:03   GetCPDataWeb 广东 2014/11/19 19:18:03
+2014/11/19 19:18:03   广东 加入数据库成功 2014/11/19 19:18:03 INSERT INTO cyycpdata (CDay, CType, CData, AddDate, InputMan, CName, OpenTime) SELECT '14111961',2,'0609110110', NOW(),'Server','广东', '2014-11-19 19:10:00' FROM DUAL WHERE NOT EXISTS (SELECT * FROM cyycpdata WHERE CDay = '14111961' AND CType = 2);
+2014/11/19 19:18:02   广东 开始加入到数据库 2014/11/19 19:18:02
+2014/11/19 19:17:52   GetCPDataWeb 2014/11/19 19:17:52
+2014/11/19 19:17:52   updateCPDataTimer_Tick 2014/11/19 19:17:52
+2014/11/19 19:17:21   GetCPDataWeb 2014/11/19 19:17:21
+2014/11/19 19:17:21   updateCPDataTimer_Tick 2014/11/19 19:17:21
+2014/11/19 19:10:50   山东 开始加入到数据库 2014/11/19 19:10:50
+2014/11/19 19:10:50   GetCPDataWeb 广东 2014/11/19 19:10:50
+2014/11/19 19:10:50   广东 加入数据库成功 2014/11/19 19:10:50 INSERT INTO cyycpdata (CDay, CType, CData, AddDate, InputMan, CName, OpenTime) SELECT '14111960',2,'0908060210', NOW(),'Server','广东', '2014-11-19 19:00:00' FROM DUAL WHERE NOT EXISTS (SELECT * FROM cyycpdata WHERE CDay = '14111960' AND CType = 2);
+2014/11/19 19:10:49   广东 开始加入到数据库 2014/11/19 19:10:49
+2014/11/19 19:10:49   GetCPDataWeb 2014/11/19 19:10:49
+2014/11/19 19:10:49   updateCPDataTimer_Tick 2014/11/19 19:10:49
+2014/11/19 19:10:49   GetCPDataWeb 上海 2014/11/19 19:10:49
+2014/11/19 19:10:49   GetCPDataWeb 浙江 2014/11/19 19:10:49
+2014/11/19 19:10:48   GetCPDataWeb 江苏 2014/11/19 19:10:48
+2014/11/19 19:10:48   GetCPDataWeb 重庆 2014/11/19 19:10:48
+2014/11/19 19:10:48   重庆 加入数据库成功 2014/11/19 19:10:48 INSERT INTO cyycpdata (CDay, CType, CData, AddDate, InputMan, CName, OpenTime) SELECT '14111961',4,'0604071103', NOW(),'Server','重庆', '2014-11-19 19:00:06' FROM DUAL WHERE NOT EXISTS (SELECT * FROM cyycpdata WHERE CDay = '14111961' AND CType = 4);
+2014/11/19 19:10:47   重庆 开始加入到数据库 2014/11/19 19:10:47
+2014/11/19 19:10:44   GetCPDataWeb 江西2014/11/19 19:10:44
+2014/11/19 19:10:44   江西 加入数据库成功 2014/11/19 19:10:44 INSERT INTO cyycpdata (CDay, CType, CData, AddDate, InputMan, CName, OpenTime) SELECT '14111961',3,'0110110906', NOW(),'Server','江西', '2014-11-19 19:10:38' FROM DUAL WHERE NOT EXISTS (SELECT * FROM cyycpdata WHERE CDay = '14111961' AND CType = 3);
+2014/11/19 19:10:43   江西 开始加入到数据库 2014/11/19 19:10:43
+2014/11/19 19:10:29   GetCPDataWeb 山东 2014/11/19 19:10:29
+2014/11/19 19:10:29   山东 加入数据库成功 2014/11/19 19:10:29 INSERT INTO cyycpdata (CDay, CType, CData, AddDate, InputMan, CName, OpenTime) SELECT '14111960',1,'0311090610', NOW(),'Server','山东', '2014-11-19 18:55:20' FROM DUAL WHERE NOT EXISTS (SELECT * FROM cyycpdata WHERE CDay = '14111960' AND CType = 1);
+2014/11/19 19:10:29   山东 开始加入到数据库 2014/11/19 19:10:29
+2014/11/19 19:10:18   GetCPDataWeb 广东 2014/11/19 19:10:18
+2014/11/19 19:10:18   广东 加入数据库成功 2014/11/19 19:10:18 INSERT INTO cyycpdata (CDay, CType, CData, AddDate, InputMan, CName, OpenTime) SELECT '14111960',2,'0908060210', NOW(),'Server','广东', '2014-11-19 19:00:00' FROM DUAL WHERE NOT EXISTS (SELECT * FROM cyycpdata WHERE CDay = '14111960' AND CType = 2);
+2014/11/19 19:10:18   广东 开始加入到数据库 2014/11/19 19:10:18
+2014/11/19 19:10:03   GetCPDataWeb 2014/11/19 19:10:03
+2014/11/19 19:10:03   updateCPDataTimer_Tick 2014/11/19 19:10:03
+2014/11/19 19:08:30   GetCPDataWeb 上海 2014/11/19 19:08:30
+2014/11/19 19:08:29   GetCPDataWeb 浙江 2014/11/19 19:08:29
+2014/11/19 19:08:29   GetCPDataWeb 江苏 2014/11/19 19:08:29
+2014/11/19 19:08:29   GetCPDataWeb 重庆 2014/11/19 19:08:29
+2014/11/19 19:08:29   重庆 加入数据库成功 2014/11/19 19:08:29 INSERT INTO cyycpdata (CDay, CType, CData, AddDate, InputMan, CName, OpenTime) SELECT '14111961',4,'0604071103', NOW(),'Server','重庆', '2014-11-19 19:00:15' FROM DUAL WHERE NOT EXISTS (SELECT * FROM cyycpdata WHERE CDay = '14111961' AND CType = 4);
+2014/11/19 19:08:28   重庆 开始加入到数据库 2014/11/19 19:08:28
+2014/11/19 19:08:28   GetCPDataWeb 江西2014/11/19 19:08:28
+2014/11/19 19:08:28   江西 加入数据库成功 2014/11/19 19:08:28 INSERT INTO cyycpdata (CDay, CType, CData, AddDate, InputMan, CName, OpenTime) SELECT '14111960',3,'0902040810', NOW(),'Server','江西', '2014-11-19 19:00:56' FROM DUAL WHERE NOT EXISTS (SELECT * FROM cyycpdata WHERE CDay = '14111960' AND CType = 3);
+2014/11/19 19:08:28   江西 开始加入到数据库 2014/11/19 19:08:28
+2014/11/19 19:08:25   GetCPDataWeb 山东 2014/11/19 19:08:25
+2014/11/19 19:08:25   山东 加入数据库成功 2014/11/19 19:08:25 INSERT INTO cyycpdata (CDay, CType, CData, AddDate, InputMan, CName, OpenTime) SELECT '14111960',1,'0311090610', NOW(),'Server','山东', '2014-11-19 18:55:20' FROM DUAL WHERE NOT EXISTS (SELECT * FROM cyycpdata WHERE CDay = '14111960' AND CType = 1);
+2014/11/19 19:08:25   山东 开始加入到数据库 2014/11/19 19:08:25
+2014/11/19 19:08:01   GetCPDataWeb 广东 2014/11/19 19:08:01
+2014/11/19 19:08:01   广东 加入数据库成功 2014/11/19 19:08:01 INSERT INTO cyycpdata (CDay, CType, CData, AddDate, InputMan, CName, OpenTime) SELECT '14111960',2,'0908060210', NOW(),'Server','广东', '2014-11-19 19:00:00' FROM DUAL WHERE NOT EXISTS (SELECT * FROM cyycpdata WHERE CDay = '14111960' AND CType = 2);
+2014/11/19 19:08:00   广东 开始加入到数据库 2014/11/19 19:08:00
+2014/11/19 19:07:37   GetCPDataWeb 2014/11/19 19:07:37
+2014/11/19 19:07:32   GetCPDataWeb 重庆 2014/11/19 19:07:32
+2014/11/19 19:07:32   重庆 加入数据库成功 2014/11/19 19:07:32 INSERT INTO cyycpdata (CDay, CType, CData, AddDate, InputMan, CName, OpenTime) SELECT '14111961',4,'0604071103', NOW(),'Server','重庆', '2014-11-19 19:00:08' FROM DUAL WHERE NOT EXISTS (SELECT * FROM cyycpdata WHERE CDay = '14111961' AND CType = 4);
+2014/11/19 19:07:32   重庆 开始加入到数据库 2014/11/19 19:07:32
+2014/11/19 19:07:31   GetCPDataWeb 江西2014/11/19 19:07:31
+2014/11/19 19:07:31   江西 加入数据库成功 2014/11/19 19:07:31 INSERT INTO cyycpdata (CDay, CType, CData, AddDate, InputMan, CName, OpenTime) SELECT '14111960',3,'0902040810', NOW(),'Server','江西', '2014-11-19 19:00:52' FROM DUAL WHERE NOT EXISTS (SELECT * FROM cyycpdata WHERE CDay = '14111960' AND CType = 3);
+2014/11/19 19:07:31   江西 开始加入到数据库 2014/11/19 19:07:31
+2014/11/19 19:06:55   GetCPDataWeb 山东 2014/11/19 19:06:55
+2014/11/19 19:06:55   山东 加入数据库成功 2014/11/19 19:06:55 INSERT INTO cyycpdata (CDay, CType, CData, AddDate, InputMan, CName, OpenTime) SELECT '14111960',1,'0311090610', NOW(),'Server','山东', '2014-11-19 18:55:20' FROM DUAL WHERE NOT EXISTS (SELECT * FROM cyycpdata WHERE CDay = '14111960' AND CType = 1);
+2014/11/19 19:06:55   山东 开始加入到数据库 2014/11/19 19:06:55
+2014/11/19 19:06:55   GetCPDataWeb 广东 2014/11/19 19:06:55
+2014/11/19 19:06:55   广东 加入数据库成功 2014/11/19 19:06:55 INSERT INTO cyycpdata (CDay, CType, CData, AddDate, InputMan, CName, OpenTime) SELECT '14111960',2,'0908060210', NOW(),'Server','广东', '2014-11-19 19:00:00' FROM DUAL WHERE NOT EXISTS (SELECT * FROM cyycpdata WHERE CDay = '14111960' AND CType = 2);
+2014/11/19 19:06:55   广东 开始加入到数据库 2014/11/19 19:06:55
+2014/11/19 19:06:55   GetCPDataWeb 2014/11/19 19:06:55
+2014/11/19 19:06:55   updateCPDataTimer_Tick 2014/11/19 19:06:55
+2014/11/19 19:06:49   获取实时彩票数据错误
+TargetSite: System.String InternalSubStringWithChecks(Int32, Int32, Boolean)
+System.ArgumentOutOfRangeException: startIndex 不能大于字符串长度。
+参数名: startIndex
+   在 System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   在 System.String.Substring(Int32 startIndex, Int32 length)
+   在 CyyService.Main.UpdateCPWebDataHaoBaidu(String link, Int32 cpType, String cpName) 位置 \\psf\dropbox\CYY-product\CYY\CyyServer\cyyservice\Main.cs:行号 708
+   在 CyyService.Main.GetCPData() 位置 \\psf\dropbox\CYY-product\CYY\CyyServer\cyyservice\Main.cs:行号 524
+   在 CyyService.Main.updateCPDataTimer_Tick(Object sender, EventArgs e) 位置 \\psf\dropbox\CYY-product\CYY\CyyServer\cyyservice\Main.cs:行号 592
+2014/11/19 19:06:49   GetCPDataWeb 广东 2014/11/19 19:06:49
+2014/11/19 19:06:49   广东 加入数据库成功 2014/11/19 19:06:49 INSERT INTO cyycpdata (CDay, CType, CData, AddDate, InputMan, CName, OpenTime) SELECT '14111960',2,'0908060210', NOW(),'Server','广东', '2014-11-19 19:00:00' FROM DUAL WHERE NOT EXISTS (SELECT * FROM cyycpdata WHERE CDay = '14111960' AND CType = 2);
+2014/11/19 19:06:48   广东 开始加入到数据库 2014/11/19 19:06:48
+2014/11/19 19:06:48   GetCPDataWeb 2014/11/19 19:06:48
+2014/11/19 19:06:48   updateCPDataTimer_Tick 2014/11/19 19:06:48
+2014/11/19 13:34:49   GetCPDataWeb 广东 2014/11/19 13:34:49
+2014/11/19 13:34:49   广东 加入数据库成功 2014/11/19 13:34:49 INSERT INTO cyycpdata (CDay, CType, CData, AddDate, InputMan, CName, OpenTime) SELECT '14111927',2,'0811051006', NOW(),'Server','广东', '2014-11-19 13:30:00' FROM DUAL WHERE NOT EXISTS (SELECT * FROM cyycpdata WHERE CDay = '14111927' AND CType = 2);
+2014/11/19 13:34:35   广东 开始加入到数据库 2014/11/19 13:34:35
+2014/11/19 13:34:33   GetCPDataWeb 2014/11/19 13:34:33
+2014/11/19 13:34:18   发送错误!发送邮件失败。
+2014/11/19 13:32:49   无法打开连接!
+TargetSite: Void StopTimer()
+System.TimeoutException: Timeout in IO operation
+   在 MySql.Data.MySqlClient.TimedStream.StopTimer()
+   在 MySql.Data.MySqlClient.TimedStream.Read(Byte[] buffer, Int32 offset, Int32 count)
+   在 System.IO.BufferedStream.Read(Byte[] array, Int32 offset, Int32 count)
+   在 MySql.Data.MySqlClient.MySqlStream.ReadFully(Stream stream, Byte[] buffer, Int32 offset, Int32 count)
+   在 MySql.Data.MySqlClient.MySqlStream.LoadPacket()
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.Open()
+   在 MySql.Data.MySqlClient.Driver.Open()
+   在 MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   在 MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   在 MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   在 MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   在 MySql.Data.MySqlClient.MySqlConnection.Open()
+   在 CyyService.Main.DBOpen() 位置 \\psf\dropbox\CYY-product\CYY\CyyServer\cyyservice\Main.cs:行号 99
+2014/11/19 13:32:32   广东 开始加入到数据库 2014/11/19 13:32:32
+2014/11/19 13:32:12   GetCPDataWeb 2014/11/19 13:32:12
+2014/11/19 13:15:56   GetCPDataWeb 2014/11/19 13:15:56
+2014/11/19 13:10:06   GetCPDataWeb 2014/11/19 13:10:06
+2014/11/19 12:50:59   GetCPDataWeb 2014/11/19 12:50:59
+2014/11/19 12:41:22   GetCPDataWeb 2014/11/19 12:41:22
+2014/11/19 12:28:38   GetCPDataWeb 2014/11/19 12:28:38
+2014/11/19 12:26:52   GetCPDataWeb 2014/11/19 12:26:52
+2014/11/19 12:26:33   GetCPDataWeb 2014/11/19 12:26:33
+2014/11/18 23:08:01   GetCPDataWeb 上海 2014/11/18 23:08:01
+2014/11/18 23:08:01   GetCPDataWeb 浙江 2014/11/18 23:08:01
+2014/11/18 23:08:01   GetCPDataWeb 江苏 2014/11/18 23:08:01
+2014/11/18 23:08:00   GetCPDataWeb 重庆 2014/11/18 23:08:00
+2014/11/18 23:08:00   重庆 加入数据库成功 2014/11/18 23:08:00 INSERT INTO cyycpdata (CDay, CType, CData, AddDate, InputMan, CName, OpenTime) SELECT '14111885',4,'0204070901', NOW(),'Server','重庆', '2014-11-18 23:00:00' FROM DUAL WHERE NOT EXISTS (SELECT * FROM cyycpdata WHERE CDay = '14111885' AND CType = 4);
+2014/11/18 23:08:00   重庆 开始加入到数据库 2014/11/18 23:08:00
+2014/11/18 23:08:00   GetCPDataWeb 江西2014/11/18 23:08:00
+2014/11/18 23:08:00   江西 加入数据库成功 2014/11/18 23:08:00 INSERT INTO cyycpdata (CDay, CType, CData, AddDate, InputMan, CName, OpenTime) SELECT '14111878',3,'0206040510', NOW(),'Server','江西', '2014-11-18 22:00:00' FROM DUAL WHERE NOT EXISTS (SELECT * FROM cyycpdata WHERE CDay = '14111878' AND CType = 3);
+2014/11/18 23:08:00   江西 开始加入到数据库 2014/11/18 23:08:00
+2014/11/18 23:07:45   GetCPDataWeb 山东 2014/11/18 23:07:45
+2014/11/18 23:07:45   山东 加入数据库成功 2014/11/18 23:07:45 INSERT INTO cyycpdata (CDay, CType, CData, AddDate, InputMan, CName, OpenTime) SELECT '14111878',1,'0302050406', NOW(),'Server','山东', '2014-11-18 21:55:00' FROM DUAL WHERE NOT EXISTS (SELECT * FROM cyycpdata WHERE CDay = '14111878' AND CType = 1);
+2014/11/18 23:07:45   山东 开始加入到数据库 2014/11/18 23:07:45
+2014/11/18 23:07:45   GetCPDataWeb 广东 2014/11/18 23:07:45
+2014/11/18 23:07:45   广东 加入数据库成功 2014/11/18 23:07:45 INSERT INTO cyycpdata (CDay, CType, CData, AddDate, InputMan, CName, OpenTime) SELECT '14111885',2,'0805020904', NOW(),'Server','广东', '2014-11-18 22:59:00' FROM DUAL WHERE NOT EXISTS (SELECT * FROM cyycpdata WHERE CDay = '14111885' AND CType = 2);
+2014/11/18 23:07:44   广东 开始加入到数据库 2014/11/18 23:07:44
+2014/11/18 23:07:44   GetCPDataWeb 2014/11/18 23:07:44
+2014/11/18 23:07:44   updateCPDataTimer_Tick 2014/11/18 23:07:44
+2014/11/18 23:01:12   获取实时彩票数据错误
+TargetSite: Void Throw(System.Exception)
+System.InvalidOperationException: Connection must be valid and open.
+   在 MySql.Data.MySqlClient.ExceptionInterceptor.Throw(Exception exception)
+   在 MySql.Data.MySqlClient.MySqlConnection.Throw(Exception ex)
+   在 MySql.Data.MySqlClient.MySqlCommand.CheckState()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 CyyService.Main.UpdateCPWebDataSQL(String cpday, String cpdata, String opentime, Int32 cpType, String cpName) 位置 \\psf\dropbox\CYY-product\CYY\CyyServer\cyyservice\Main.cs:行号 688
+   在 CyyService.Main.UpdateCPWebDataTaobao(String link, Int32 cpType, String cpName) 位置 \\psf\dropbox\CYY-product\CYY\CyyServer\cyyservice\Main.cs:行号 670
+   在 CyyService.Main.GetCPData() 位置 \\psf\dropbox\CYY-product\CYY\CyyServer\cyyservice\Main.cs:行号 522
+   在 CyyService.Main.updateCPDataTimer_Tick(Object sender, EventArgs e) 位置 \\psf\dropbox\CYY-product\CYY\CyyServer\cyyservice\Main.cs:行号 592
+2014/11/18 23:01:12   已发送信息给超级管理员!
+2014/11/18 23:01:09   无法打开连接!
+TargetSite: Void AuthenticationFailed(System.Exception)
+MySql.Data.MySqlClient.MySqlException (0x80004005): Authentication to host '127.0.0.1' for user 'root' using method 'mysql_native_password' failed with message: Access denied for user 'root'@'localhost' (using password: NO) ---> MySql.Data.MySqlClient.MySqlException (0x80004005): Access denied for user 'root'@'localhost' (using password: NO)
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.ReadPacket()
+   在 MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.AuthenticationFailed(Exception ex)
+   在 MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.ReadPacket()
+   在 MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.Authenticate(Boolean reset)
+   在 MySql.Data.MySqlClient.NativeDriver.Authenticate(String authMethod, Boolean reset)
+   在 MySql.Data.MySqlClient.NativeDriver.Open()
+   在 MySql.Data.MySqlClient.Driver.Open()
+   在 MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   在 MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   在 MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   在 MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   在 MySql.Data.MySqlClient.MySqlConnection.Open()
+   在 CyyService.Main.DBOpen() 位置 \\psf\dropbox\CYY-product\CYY\CyyServer\cyyservice\Main.cs:行号 99
+2014/11/18 23:01:09   广东 开始加入到数据库 2014/11/18 23:01:09
+2014/11/18 23:01:08   GetCPDataWeb 2014/11/18 23:01:08
+2014/11/18 23:01:08   updateCPDataTimer_Tick 2014/11/18 23:01:08
+﻿
